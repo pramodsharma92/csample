@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
  
-int main()
+void palindrome()
 {
    char a[100], b[100];
  
